@@ -2,6 +2,8 @@
 
 A beautiful, modern task management application designed to help you stay focused and track your daily productivity. This project was generated using **Figma Make**.
 
+🎨 **Live Design Prototype:** [View in Figma Make →](https://www.figma.com/make/rs64qYmKFqykuEazh67MOo/Daily-Focus-Tracker-App?t=VqMEgO1xbubztKAd-20&fullscreen=1)
+
 ## Features
 
 -   **Task Management**: Easily add, edit, and delete tasks.
